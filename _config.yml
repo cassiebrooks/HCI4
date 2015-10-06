@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            #SHORT COURSE TAG
-tagline:          #FULL COURSE NAME
-description:      #SHORT COURSE DESCRIPTION
-url:              https://gu-cs-notes.github.io/REPO-NAME
-baseurl:          /YOUR-REPO-HERE				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
+title:            HCI4
+tagline:          Human-Computer Interaction
+description:      Human-computer Interaction for Level 4 Glasgow University
+url:              https://gu-cs-notes.github.io/HCI4
+baseurl:          /HCI4				# Note! This should be the repo title preceded by a forward slash, but not followed by one! For example, the baseurl for AI4 is "/AI4"
 
 author:
   name:           'Tom Wallis'
